@@ -43,9 +43,9 @@
     <footer id="contact" class="py-20 text-center bg-gray-900 text-white">
         <h2 class="text-2xl font-bold mb-6">Let's Connect</h2>
         <div class="flex justify-center space-x-6">
-            <a href="https://fiverr.com/YOUR_USERNAME" class="hover:text-blue-400">Fiverr</a>
-            <a href="https://linkedin.com/in/YOUR_LINKEDIN" class="hover:text-blue-400">LinkedIn</a>
-            <a href="mailto:your-email@example.com" class="hover:text-blue-400">E-mail</a>
+            <a href="https://fiverr.com/ulasgulener" class="hover:text-blue-400">Fiverr</a>
+            <a href="https://linkedin.com/in/ulasgulener" class="hover:text-blue-400">LinkedIn</a>
+            <a href="mailto:ulasglnrl@gmail.com" class="hover:text-blue-400">E-mail</a>
         </div>
     </footer>
 
