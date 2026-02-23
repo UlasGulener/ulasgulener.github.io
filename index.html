@@ -58,9 +58,9 @@
     <footer id="contact" class="py-16 text-center bg-slate-900 text-white">
         <h2 id="contact-title" class="text-3xl font-bold mb-8">Ready to Optimize Your Data?</h2>
         <div class="flex justify-center space-x-8">
-            <a href="#" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">Fiverr</a>
-            <a href="#" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">LinkedIn</a>
-            <a href="#" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">Email</a>
+            <a href="https://www.fiverr.com/users/ulasgulener/" target="_blank" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">Fiverr</a>
+            <a href="https://www.linkedin.com/in/ulasgulener" target="_blank" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">LinkedIn</a>
+            <a href="mailto:ulasglnr@gmail.com" class="text-gray-400 hover:text-cyan-400 transition-colors text-lg font-medium">Email</a>
         </div>
         <p class="mt-12 text-sm text-gray-600">© 2026 Ulas Gulener. All rights reserved.</p>
     </footer>
